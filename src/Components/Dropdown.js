@@ -6,7 +6,7 @@ import BeachAccessIcon from "@material-ui/icons/BeachAccess";
 import CancelIcon from "@material-ui/icons/Cancel";
 import { menuData } from "../Constants/MenuData";
 // import { CSSTransition } from "react-transition-group";
-const useStyles = makeStyles((theme, isOpacity) => ({
+const useStyles = makeStyles(() => ({
   mobileNav: {
     background: "none",
     backgroundImage:

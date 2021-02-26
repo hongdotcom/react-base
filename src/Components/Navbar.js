@@ -3,7 +3,7 @@ import { makeStyles } from "@material-ui/core/styles";
 import { Link } from "react-router-dom";
 import Logo from "./Logo";
 import { menuData } from "../Constants/MenuData";
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(() => ({
   Nav: {
     background: "none",
     backgroundImage:

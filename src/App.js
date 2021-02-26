@@ -7,7 +7,7 @@ import Dropdown from "./Components/Dropdown";
 import { makeStyles } from "@material-ui/core/styles";
 import Background from "./Components/Background";
 import bg from "./static/images/bg.jpg";
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(() => ({
   root: {
     width: "100vw",
     height: "100vh",
