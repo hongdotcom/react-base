@@ -1,4 +1,4 @@
-This repo is a basic react-app with Hook, Router, Mobile, Navbar.
+This repo is a basic react-app with Hook, Router, ESlint, Husky,Mobile Navbar.
 Use this to start project is faster. Will add more feature from time to time.
 
 \*\* Remember to yarn add / npm install before use....
