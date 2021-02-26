@@ -1,3 +1,8 @@
+This repo is a basic react-app with Hook, Router, Mobile, Navbar.
+Use this to start project is faster. Will add more feature from time to time.
+
+\*\* Remember to yarn add / npm install before use....
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
